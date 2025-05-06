@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      24.48
 // @description  Auto-fill, inject date, retry at 58.900 with big clock and beep on click
-// @match        *://egy.almaviva-visa.it/appointment*
+// @match        *://egy.-visa.it/appointment*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
